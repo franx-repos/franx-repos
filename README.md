@@ -1,10 +1,9 @@
-🔭 I’m currently working on [Sowo-GV-onboarder](https://github.com/franx-repos/sowo-gv-onboarder), a tool to speed up the checkin to general assemblies.<br>
-🌱 I’m currently learning ... <br>
-👯 I’m looking to collaborate on ... <br>
-🤔 I’m looking for help with ... <br>
+🔭 I’m currently working on the [Sowo-GV-onboarder](https://github.com/franx-repos/sowo-gv-onboarder), a tool to speed up the checkin to general assemblies.<br>
+🌱 I’m currently learning TypeScript to round up my frontend profile.<br>
+👯 I’m actively seeking opportunities to leverage my full-stack development skills in exciting new projects.<br>
+<!--🤔 I’m looking for help with ... <br>
 💬 Ask me about ... <br>
-📫 How to reach me: ... <br>
-⚡ Fun fact: ...
+⚡ Fun fact: ... -->
 
 </br></br>
 # 🌐Socials
