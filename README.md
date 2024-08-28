@@ -1,4 +1,4 @@
-🔭 I’m currently working on [... ](https://github.com/franx-repos/sowo-gv-onboarder)<br>
+🔭 I’m currently working on [Sowo-GV-onboarder](https://github.com/franx-repos/sowo-gv-onboarder), a tool to speed up the checkin to general assemblies.<br>
 🌱 I’m currently learning ... <br>
 👯 I’m looking to collaborate on ... <br>
 🤔 I’m looking for help with ... <br>
